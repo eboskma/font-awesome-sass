@@ -1,0 +1,18 @@
+{
+  "name": "font-awesome-sass",
+  "version": "4.2.0",
+  "homepage": "https://github.com/eboskma/font-awesome-sass",
+  "authors": [
+    "Erwin Boskma <erwin@datarift.nl>"
+  ],
+  "description": "Font-Awesome Sass for Bower",
+  "main": "assets/stylesheets/font-awesome.scss",
+  "license": "OFL-1.1, MIT, CC-BY-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
